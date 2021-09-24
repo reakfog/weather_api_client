@@ -18,13 +18,18 @@ stick to the minimum.
 You need to install Python 3 on your local machine and meet the following conditions:
 1. Clone the repository to your local machine
 2. In the project root directory, install and run the virtual environment
-    - `python3 -m venv venv`
-    - `source venv/bin/activate`
+```
+ python3 -m venv venv
+ source venv/bin/activate
+```
 4. Install requirements:
-    - `pip install -r requirements.txt`
+```
+ pip install -r requirements.txt
+```
 5. Run script:
-    - get help: `python3 openweather_cli.py --help`
-    - get weather forecast for city: `python3 openweather_cli.py CITY`
+```
+ python3 openweather_cli.py CITY
+```
 
 ## <a name='examples'>Examples</a>
 
