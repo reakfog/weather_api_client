@@ -36,7 +36,7 @@ You need to install Python 3 on your local machine and meet the following condit
 `python3 openweather_cli.py --help`  
 ![Get help](https://github.com/reakfog/weather_api_client/blob/main/screenshots/get_help.png)
 
-`python3 openweather_cli.py --singapore`  
+`python3 openweather_cli.py singapore`  
 ![Get rainy forecast](https://github.com/reakfog/weather_api_client/blob/main/screenshots/get_rainy_forecast.png)
 
 `python3 openweather_cli.py 'new york'`  
